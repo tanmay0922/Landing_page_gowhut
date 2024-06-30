@@ -1,0 +1,38 @@
+.main {
+    padding: 2rem;
+  }
+  
+  .hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 0;
+  }
+  
+  .heroContent {
+    max-width: 50%;
+  }
+  
+  .heroImage {
+    max-width: 50%;
+  }
+  
+  .features {
+    padding: 2rem 0;
+  }
+  
+  .steps {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem 0;
+  }
+  
+  .step {
+    text-align: center;
+    max-width: 30%;
+  }
+  
+  .step img {
+    max-width: 100%;
+  }
+  

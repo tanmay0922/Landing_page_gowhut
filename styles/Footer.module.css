@@ -1,0 +1,75 @@
+.footer {
+  background-color: #1a1a2e;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+  border-radius: 15px;
+}
+
+
+.footerContent {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.logo img {
+  max-width: 100px;
+  float: left;
+}
+
+.footerContent p {
+  font-size: 1.5rem;
+  margin: 1rem 0;
+}
+
+.ctaButton {
+  background-color: white;
+  color: #1a1a2e;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 1rem 0;
+}
+
+.links {
+  margin: 1rem 0;
+}
+
+.links a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+  font-size: 1rem;
+}
+
+.separator {
+  color: white;
+  margin: 0 0.5rem;
+}
+
+.socialIcons {
+  margin: 1rem 0;
+  float: right;
+}
+
+.socialIcons img {
+  max-width: 40px;
+  margin: 0 0.5rem;
+}
+
+.footerBottom {
+  margin-top: 2rem;
+  font-size: 0.875rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footerBottom a {
+  color: white;
+  text-decoration: none;
+  margin: 0 0.5rem;
+}

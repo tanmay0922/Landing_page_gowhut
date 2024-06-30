@@ -1,0 +1,43 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.logo img {
+  height: 40px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.link {
+  color: #000;
+  text-decoration: none;
+  margin-right: 15px;
+}
+
+.link span.arrow {
+  margin-left: 5px;
+}
+
+.separator {
+  margin: 0 10px;
+  color: #000;
+}
+
+.getStartedButton {
+  background-color: #6200ea;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.getStartedButton:hover {
+  background-color: #3700b3;
+}

@@ -1,0 +1,48 @@
+.benefits {
+    padding: 2rem 0;
+    background-color: #fff;
+    text-align: center;
+  }
+  
+  .benefits h2 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .benefitsList {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+  }
+  
+  .benefit {
+    text-align: center;
+    max-width: 30%;
+    flex: 1;
+  }
+  
+  .benefit img {
+    max-width: 100%;
+    border-radius: 16px;
+  }
+  
+  .benefit p {
+    margin-top: 1rem;
+    font-size: 1rem;
+    color: #333;
+  }
+  
+  .poweredBy {
+    margin-top: 2rem;
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .poweredBy p img {
+    vertical-align: middle;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+  }
+  

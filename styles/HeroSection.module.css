@@ -1,0 +1,12 @@
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 2rem 0;
+    background-image: url('/combined-hero-image.png'); /* Ensure the correct path */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; /* Adjust height as necessary */
+  }
+  
